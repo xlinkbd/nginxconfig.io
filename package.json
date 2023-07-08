@@ -35,13 +35,13 @@
 		"browser-sync": "^2.26.7",
 		"concat": "^1.0.3",
 		"concurrently": "^4.1.1",
-		"cypress": "^3.3.2",
+		"cypress": "^12.17.0",
 		"eslint": "^6.0.1",
 		"http-server": "^0.11.1",
-		"node-sass": "^4.12.0",
+		"node-sass": "^9.0.0",
 		"nodemon": "^1.19.1",
 		"postcss-cli": "^6.1.2",
-		"start-server-and-test": "^1.9.1",
+		"start-server-and-test": "^1.15.4",
 		"uglify-js": "^3.6.0"
 	},
 	"scripts": {
